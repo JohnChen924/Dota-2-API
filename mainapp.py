@@ -8,7 +8,7 @@ from history import history
 from detail import detail
 from tkinter import ttk, filedialog, simpledialog
 from tkinter.ttk import Style
-
+"testing github"
 if __name__ == '__main__':
     main = tk.Tk()
     main.title("Jonas")
